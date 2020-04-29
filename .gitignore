@@ -1,0 +1,10 @@
+# blacklist everything
+* 
+
+# whilelist all directories
+!*/
+# whitelist the file you're interested in
+!*.c
+!*.h
+!*.java
+!.gitignore
